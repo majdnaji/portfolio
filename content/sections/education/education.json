@@ -1,0 +1,16 @@
+[
+  {
+    "university": "Syrian Virtual University",
+    "degree": "Bachelor",
+    "speciality": "Management Information Systems",
+    "startDate": "2020",
+    "endDate": "2023"
+  },
+  {
+    "university": "Damascus University",
+    "degree": "Diploma",
+    "speciality": "Software Engineering",
+    "startDate": "2016",
+    "endDate": "2019"
+  }
+]

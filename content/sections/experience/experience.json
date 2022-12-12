@@ -1,0 +1,68 @@
+[
+    {
+        "company":"Cubeta",
+        "positions":[
+            {
+                "title":"Full Stack developer, Team Lead",
+                "description":"Co-founded a software company specializing in web and mobile app development. With the help of our team, we have been able to provide excellent services and build a reputation as a reliable partner for an international clientele. Responsible for managing the overall operations of the company. This includes delegating and directing agendas, increasing profitability, managing company structure and strategy, and communicating with clients. In addition to taking on technical responsibilities wherever required.",
+                "startDate":"Sep 2020",
+                "endDate":"Present"
+            }
+        ],
+        "startDate":"September 2020",
+        "endDate":"Present",
+        "location":"Damascus",
+        "commitment":"Full time"
+    },
+    {
+        "company":"BIGBANG ITS",
+        "positions":[
+            {
+                "title":"Development Team Leader",
+                "description":"Handled the management of multiple teams, guiding developers to deliver high-quality results. Taking part in the recruitment process, and being the mediator between the development team and upper management. Overseeing, developing, and updating the development stack and workflow, implementing enhancements when possible.",
+                "startDate":"Feb 2020",
+                "endDate":"Nov 2020"
+            },
+            {
+                "title":"Software Developer",
+                "description":"Took part in designing and implementing web applications of varying degrees of complexity from simple static landing pages to cms-based websites and platform-based e-commerce to new and challenging custom solutions, all while adapting quickly to the task at hand and being a team player.",
+                "startDate":"Sep 2019",
+                "endDate":"Feb 2020"
+            }
+        ],
+        "startDate":"September 2019",
+        "endDate":"Nov 2020",
+        "location":"Damascus",
+        "commitment":"Full time"
+    },
+    {
+        "company":"Venezuelan Embassy",
+        "location":"Damascus",
+        "commitment":"Intern",
+        "startDate":"May 2018",
+        "endDate":"Nov 2018",
+        "positions":[
+            {
+                "title":"IT Intern",
+                "description":"Developed an internal system for registering Venezuelan citizens in syria through the embassy portal Handled general it department daily tasks including troubleshooting and basic hardware maintenance",
+                "startDate":"May 2018",
+                "endDate":"Nov 2018"
+            }
+        ]
+    },
+    {
+        "company":"Webbers Apps",
+        "commitment":"Part Time",
+        "location":"Remote",
+        "startDate":"2018",
+        "endDate":"Sep 2019",
+        "positions":[
+            {
+                "title":"Junior Web Developer",
+                "description":"Developed web applications for a variety of industries including medical and technology",
+                "startDate":"2018",
+                "endDate":"Sep 2019"
+            }
+        ]
+    }
+]

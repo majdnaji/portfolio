@@ -1,0 +1,28 @@
+.TagContainer{
+    
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0.2rem 1rem;
+    font-size: 0.75rem;
+    border-radius: var(--border-radius);
+    background: var(--card-background-color);
+    margin-bottom: 1rem;
+    margin-right: 0.5rem;
+}
+.PositionTitle{
+    font-weight: bold;
+}
+.PositionDescription{
+    font-size: 0.9rem;
+}
+.PositionContainer{
+    padding: 1rem;
+    border-left: 0.125rem solid var(--primary-color);
+    padding-bottom: 1rem;
+    margin-left: 3rem;
+}
+.SubText{
+    color: var(--subtext-color);
+    font-size: 0.75rem;
+}
