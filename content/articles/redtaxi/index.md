@@ -25,7 +25,7 @@ keywords:
 ---
 
 
-
+this project was built in collaboration between <u><a href="https://cubeta.io/">CUBETA</a></u> and Inkcode lebanon
 ## Scope of project
 
 This software is an on-demand transportation platform.
@@ -46,5 +46,13 @@ Additionally, the platform allows admins to monitor and manage all the functiona
 - sprint planning
 - acted as the bridge between the client, the mobile and web teams and the client
 - backend debugging
+
+#### Links
+
+<u><a href="https://redtaxi.cab/">Website</a></u>
+<u><a href="https://play.google.com/store/apps/details?id=com.customer.redtaxi">Play Store</a></u>
+<u><a href="https://apps.apple.com/lb/app/red-taxi-lb/id1481695744">App Store</a></u>
+
+
 
 

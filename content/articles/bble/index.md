@@ -19,6 +19,7 @@ keywords:
 ---
 
 
+this project was developed while employed at <u><a href="https://its.ae/">BIGBANG ITS</a></u>
 #### Scope of project
 
 A chrome extension built to make the access to bigbang's support easier by provideing a list of useful links, including uploading diles to support team, requesting quick support, requesting host support and much more
@@ -27,4 +28,7 @@ A chrome extension built to make the access to bigbang's support easier by provi
 - Idea conception 
 - Implementation 
 
+#### Links
+
+<u><a href="https://chrome.google.com/webstore/detail/bigbang-support/ahgmkfehmkpfpimcbgmjcnieaeajojba">Chrome store</a></u>
 

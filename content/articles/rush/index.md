@@ -22,7 +22,7 @@ keywords:
   - "frontend"
 ---
 
-
+this project was built in collaboration between <u><a href="https://cubeta.io/">CUBETA</a></u> and Inkcode
 
 ## Scope of project
 
@@ -50,4 +50,9 @@ using the system
 - final testing
 
 ![Rush app.](../../images/rush2.webp)
+#### Links
+
+<u><a href="https://redrush.co/">Website</a></u>
+<u><a href="https://play.google.com/store/apps/details?id=co.redrush.client">Play Store</a></u>
+<u><a href="https://apps.apple.com/lb/app/rush-food-grocery-delivery/id1590468108">App Store</a></u>
 

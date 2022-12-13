@@ -15,11 +15,12 @@ keywords:
   - "Blog"
 ---
 
-
+this project was built in collaboration between <u><a href="https://cubeta.io/">CUBETA</a></u> and FocusCode
 ## Second Headline
 
 Landing page for Nightmares Game 
 
+#### Links
 
 <u><a href="http://nightmares-game.com">Website</a></u>
 

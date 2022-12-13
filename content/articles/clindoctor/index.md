@@ -17,7 +17,7 @@ keywords:
   - "telemedicine"
 ---
 
-
+this project was built in collaboration with the team at Clingroup
 #### Scope of project
 
 The system is a telemedicine app, for medical consultation ,medical appointment & booking, based in Lebanon, offering services to the GCC , Africa and Beyond to the Lebanese and Arab expat community .
@@ -27,5 +27,8 @@ The system is a telemedicine app, for medical consultation ,medical appointment 
 - Developed the video calling module using WEBRTC 
 - minor feature development
 - collaborated with a large multinational team
+
+#### Links
+<u><a href="https://clindoctor.net/">Website</a></u>
 
 
