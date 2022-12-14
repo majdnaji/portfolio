@@ -17,7 +17,7 @@ keywords:
 
 this project was built in collaboration between <u><a href="https://cubeta.io/">CUBETA</a></u> and automotive markets GmbH
 
-## Second Headline
+## Scope Of Project
 
 a wordpress plugin for leasingdeal used car dealership 
 the plugin integrates leasingdeal's websites offering into any wordpress website using a gutenberg block that consumes cached entries retrieved from leasingdeal's API

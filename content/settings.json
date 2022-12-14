@@ -1,10 +1,11 @@
 {
   "siteMetadata": {
+    "thumbnail":"../content/images/thumbnail.jpg",
     "language": "en",
     "siteUrl": "https://majdnaji.com",
     "title": "Majd naji | Full Stack developer",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "6 years of keyboard bashing and still counting!",
     "author": "Majd Naji",
     "avatar": "../content/images/majdnaji.jpg",
     "bio": "Full Stack developer.",
